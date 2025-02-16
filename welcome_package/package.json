@@ -1,0 +1,16 @@
+{
+  "name": "welcome_msg_krdo",
+  "version": "1.0.0",
+  "description": "this is testing to welcome package",
+  "keywords": [
+    
+    "welcome"
+  ],
+  "license": "ISC",
+  "author": "sunny",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
